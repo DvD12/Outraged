@@ -1,0 +1,4 @@
+1. https://answers.unity.com/questions/1735434/build-error-microphone-class-is-used-but-microphon.html
+In player settings for iOS, look for microphone usage description and write "use microphone"
+2. Make sure that PhotonServerSettings.asset has the same RPCs in the SAME ORDER as the main build (can be found under Unity > Window > Photon Unity Networking > Highlight Server Settings. Can't seem to edit them from Unity, apparently)
+3. Remove OpenCoding

@@ -1,0 +1,337 @@
+﻿[
+	{
+		"NameID": "Italiano Custom",
+		"Cards":
+		[
+			{
+				"Type": "Answer",
+				"Text": "Il Partito Democratico.",
+				"Author": "Demo"
+			},
+			{
+				"Type": "Answer",
+				"Text": "Le sibilline metafore di Pier Luigi Bersani.",
+				"Author": "Demo"
+			},
+			{
+				"Type": "Answer",
+				"Text": "Oscar Fulvio Giannino.",
+				"Author": "Demo"
+			},
+			{
+				"Type": "Answer",
+				"Text": "Ce lo chiede l'Europa.",
+				"Author": "Demo"
+			},
+			{
+				"Type": "Answer",
+				"Text": "Un estratto di papaya fermentato.",
+				"Author": "Demo"
+			},
+			{
+				"Type": "Answer",
+				"Text": "Benito Mussolini.",
+				"Author": "Demo"
+			},
+			{
+				"Type": "Answer",
+				"Text": "Olio di ricino.",
+				"Author": "Demo"
+			},
+			{
+				"Type": "Answer",
+				"Text": "La Rivoluzione d'Ottobre.",
+				"Author": "Demo"
+			},
+			{
+				"Type": "Answer",
+				"Text": "La ghigliottina.",
+				"Author": "Demo"
+			},
+			{
+				"Type": "Answer",
+				"Text": "I poveri.",
+				"Author": "Demo"
+			},
+			{
+				"Type": "Answer",
+				"Text": "I poteri forti.",
+				"Author": "Demo"
+			},
+			{
+				"Type": "Answer",
+				"Text": "L'eruzione del Vesuvio.",
+				"Author": "Demo"
+			},
+			{
+				"Type": "Answer",
+				"Text": "La Brexit.",
+				"Author": "Demo"
+			},
+			{
+				"Type": "Answer",
+				"Text": "Orde di cinesi famelici.",
+				"Author": "Demo"
+			},
+			{
+				"Type": "Answer",
+				"Text": "I comunisti.",
+				"Author": "Demo"
+			},
+			{
+				"Type": "Answer",
+				"Text": "Stalin.",
+				"Author": "Demo"
+			},
+			{
+				"Type": "Answer",
+				"Text": "Il Patto di Varsavia.",
+				"Author": "Demo"
+			},
+			{
+				"Type": "Answer",
+				"Text": "Le coronarie di Giuliano Ferrara.",
+				"Author": "Demo"
+			},
+			{
+				"Type": "Answer",
+				"Text": "Bestemmie a denti stretti.",
+				"Author": "Demo"
+			},
+			{
+				"Type": "Answer",
+				"Text": "Un gorilla nano.",
+				"Author": "Demo"
+			},
+			{
+				"Type": "Answer",
+				"Text": "Massimo d'Alema.",
+				"Author": "Demo"
+			},
+			{
+				"Type": "Answer",
+				"Text": "Harambe il gorilla.",
+				"Author": "Demo"
+			},
+			{
+				"Type": "Answer",
+				"Text": "I governi precedenti.",
+				"Author": "Demo"
+			},
+			{
+				"Type": "Answer",
+				"Text": "Stimolazione prostatica.",
+				"Author": "Demo"
+			},
+			{
+				"Type": "Answer",
+				"Text": "Lo Sportello di Forum.",
+				"Author": "Demo"
+			},
+			{
+				"Type": "Answer",
+				"Text": "Il bubbone senziente di Enrico Mentana.",
+				"Author": "Demo"
+			},
+			{
+				"Type": "Answer",
+				"Text": "I partigiani.",
+				"Author": "Demo"
+			},
+			{
+				"Type": "Answer",
+				"Text": "Perdere il treno per Auschwitz.",
+				"Author": "Demo"
+			},
+			{
+				"Type": "Answer",
+				"Text": "Scie chimiche.",
+				"Author": "Demo"
+			},
+			{
+				"Type": "Answer",
+				"Text": "Nazisti vistosamente omosessuali.",
+				"Author": "Demo"
+			},
+			{
+				"Type": "Answer",
+				"Text": "Chatroulette.",
+				"Author": "Demo"
+			},
+			{
+				"Type": "Question",
+				"Text": "Anche il più scettico non può credere in _____!",
+				"Picks": 1,
+				"Author": "Demo"
+			},
+			{
+				"Type": "Question",
+				"Text": "Di cosa mi vergognavo da piccolo... ma oggi non più?",
+				"Picks": 1,
+				"Author": "Demo"
+			},
+			{
+				"Type": "Question",
+				"Text": "Sento un fottuto bisogno di _____.",
+				"Picks": 1,
+				"Author": "Demo"
+			},
+			{
+				"Type": "Question",
+				"Text": "Si lavora e si fatica per la gloria e per _____.",
+				"Picks": 1,
+				"Author": "Demo"
+			},
+			{
+				"Type": "Question",
+				"Text": "_____, la sola igiene del mondo.",
+				"Picks": 1,
+				"Author": "Demo"
+			},
+			{
+				"Type": "Question",
+				"Text": "La vita è un circo, e io sono _____.",
+				"Picks": 1,
+				"Author": "Demo"
+			},
+			{
+				"Type": "Question",
+				"Text": "Che cosa mi ha insegnato la vita?",
+				"Picks": 1,
+				"Author": "Demo"
+			},
+			{
+				"Type": "Question",
+				"Text": "Non si può voler tutto dalla vita!, soprattutto _____!",
+				"Picks": 1,
+				"Author": "Demo"
+			},
+			{
+				"Type": "Question",
+				"Text": "Cosa non sarebbe mai dovuto esistere?",
+				"Picks": 1,
+				"Author": "Demo"
+			},
+			{
+				"Type": "Question",
+				"Text": "_____: ecco cosa serve a questo Paese!",
+				"Picks": 1,
+				"Author": "Demo"
+			},
+			{
+				"Type": "Question",
+				"Text": "Che cosa farò in pensione?",
+				"Picks": 1,
+				"Author": "Demo"
+			},
+			{
+				"Type": "Question",
+				"Text": "Che cos'è legale ma non dovrebbe esserlo?",
+				"Picks": 1,
+				"Author": "Demo"
+			},
+			{
+				"Type": "Question",
+				"Text": "Che cos'è illegale ma non dovrebbe esserlo?",
+				"Picks": 1,
+				"Author": "Demo"
+			},
+			{
+				"Type": "Question",
+				"Text": "_____ contro l'umanità.",
+				"Picks": 1,
+				"Author": "Demo"
+			},
+			{
+				"Type": "Question",
+				"Text": "Chiudo gli occhi e penso a _____.",
+				"Picks": 1,
+				"Author": "Demo"
+			},
+			{
+				"Type": "Question",
+				"Text": "Il nuovo anno porterà soldi? Felicità? Balle! Porterà solo _____!",
+				"Picks": 1,
+				"Author": "Demo"
+			},
+			{
+				"Type": "Question",
+				"Text": "È in arrivo la nuova versione di _____, che sistema il problema di _____.",
+				"Picks": 2,
+				"Author": "Demo"
+			},
+			{
+				"Type": "Question",
+				"Text": "'Uno spettro si aggira per l'Europa -- lo spettro di _____.'",
+				"Picks": 1,
+				"Author": "Demo"
+			},
+			{
+				"Type": "Question",
+				"Text": "Auspico una società governata solo da _____!",
+				"Picks": 1,
+				"Author": "Demo"
+			},
+			{
+				"Type": "Question",
+				"Text": "Com'è moderno questo Papa, ha detto di essere a favore di _____!",
+				"Picks": 1,
+				"Author": "Demo"
+			},
+			{
+				"Type": "Question",
+				"Text": "Diventeri gay per _____.",
+				"Picks": 1,
+				"Author": "Demo"
+			},
+			{
+				"Type": "Question",
+				"Text": "Venerabile maestro Tzu, come raggiungo il nirvana?",
+				"Picks": 1,
+				"Author": "Demo"
+			},
+			{
+				"Type": "Question",
+				"Text": "Cosa mi provoca un odio primale, atavico, irrazionale, non appena lo sento nominare?",
+				"Picks": 1,
+				"Author": "Demo"
+			},
+			{
+				"Type": "Question",
+				"Text": "Che cos'ha vivacizzato la mia vita sessuale?",
+				"Picks": 1,
+				"Author": "Demo"
+			},
+			{
+				"Type": "Question",
+				"Text": "Le sue angosce, signore, sono tutte riconducibili a un singolo trauma: _____.",
+				"Picks": 1,
+				"Author": "Demo"
+			},
+			{
+				"Type": "Question",
+				"Text": "Non ho paura di nessun uomo. Ma quella... cosa, _____... mi terrorizza.",
+				"Picks": 1,
+				"Author": "Demo"
+			},
+			{
+				"Type": "Question",
+				"Text": "Che fila! Sono tutti in attesa di _____!",
+				"Picks": 1,
+				"Author": "Demo"
+			},
+			{
+				"Type": "Question",
+				"Text": "'Ma è ovvio, il paziente soffre di _____. Dategli _____ e tornerà come nuovo.'",
+				"Picks": 2,
+				"Author": "Demo"
+			},
+			{
+				"Type": "Question",
+				"Text": "L'umanità è in ginocchio; un pericolo esistenziale la minaccia: _____. Chi la salverà?",
+				"Picks": 2,
+				"Author": "Demo"
+			}
+		]
+	},
+]
